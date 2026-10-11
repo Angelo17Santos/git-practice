@@ -53,6 +53,7 @@ git-practice/
 ├── main.cpp              # Código-fonte do programa em C++
 ├── README.md             # Documentação do projeto
 └── LICENSE               # Licença do projeto
+```
 
-###### Licença
+## Licença
 Este projeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/), especificada no arquivo LICENSE.
