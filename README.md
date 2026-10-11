@@ -27,6 +27,7 @@ Para rodar este programa, você precisará de um ambiente ou compilador que supo
 1. Clone este repositório para a sua máquina local:
    ```bash
    git clone https://github.com/Angelo17Santos/git-practice.git
+   ```
 2. Acesse a pasta do projeto:
    cd git-practice
 
