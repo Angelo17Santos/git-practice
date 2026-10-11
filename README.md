@@ -26,7 +26,7 @@ Para rodar este programa, você precisará de um ambiente ou compilador que supo
 ### Passos para instalação:
 1. Clone este repositório para a sua máquina local:
    ```bash
-   git clone [https://github.com/seu-usuario/git-practice.git](https://github.com/seu-usuario/git-practice.git)
+   git clone https://github.com/Angelo17Santos/git-practice.git
 2. Acesse a pasta do projeto:
    cd git-practice
 
@@ -47,7 +47,6 @@ Como compilar e executar:
 
 ```text
 git-practice/
-├── .vscode/              # Configurações do ambiente no VS Code
 ├── assets/
 │   └── demonstracao.gif  # GIF ou imagem de demonstração do programa
 ├── main.cpp              # Código-fonte do programa em C++
@@ -56,4 +55,4 @@ git-practice/
 ```
 
 ## Licença
-Este projeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/), especificada no arquivo LICENSE.
+Este projeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/), — consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
