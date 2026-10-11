@@ -30,7 +30,7 @@ Para rodar este programa, você precisará de um ambiente ou compilador que supo
 2. Acesse a pasta do projeto:
    cd git-practice
 
-#### Uso e Exemplos:
+## Uso e Exemplos:
 Como compilar e executar:
    1. Abra o terminal na pasta do projeto.
    2. Compile o código com o g++:
@@ -43,11 +43,13 @@ Como compilar e executar:
       Saída:
       R$ 14.8
 
-##### Estrutura do Projeto
+## Estrutura do Projeto
+
+```text
 git-practice/
+├── .vscode/              # Configurações do ambiente no VS Code
 ├── assets/
 │   └── demonstracao.gif  # GIF ou imagem de demonstração do programa
-├── .vscode/              # Configurações do ambiente no VS Code
 ├── main.cpp              # Código-fonte do programa em C++
 ├── README.md             # Documentação do projeto
 └── LICENSE               # Licença do projeto
